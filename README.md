@@ -12,7 +12,6 @@
 
 ⌨ **试图成为后端开发中、试图为开源社区贡献代码中、试图代码审计中……**
 
-🎵 ****
 <br>
 
 ## Learn and Master
@@ -21,6 +20,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+![Java](https://img.shields.io/badge/java-007396?&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?&logo=python&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=plastic&logo=vim)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
