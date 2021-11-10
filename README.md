@@ -2,9 +2,9 @@
   
 # PORTRAIT of fromhex 🧐
 
-[![SITE](https://img.shields.io/badge/SITE-m0yuqi.cn-blue?logo=homeadvisor)][site]
+[![SITE](https://img.shields.io/badge/SITE-fromhex.cn-blue?logo=homeadvisor)][site]
 ![QQ](https://img.shields.io/badge/QQ-122507257-orange?logo=tencent%20qq)
-[![EMAIL](https://img.shields.io/badge/EMAIL-m0yuqi@126.com-red?logo=gmail)][email]
+[![EMAIL](https://img.shields.io/badge/EMAIL-fromhex@163.com-red?logo=gmail)][email]
 
 <br>
 
