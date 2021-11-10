@@ -1,6 +1,6 @@
 <div align="center">
   
-# PORTRAIT of m0yuqi 🧐
+# PORTRAIT of fromhex 🧐
 
 [![SITE](https://img.shields.io/badge/SITE-m0yuqi.cn-blue?logo=homeadvisor)][site]
 ![QQ](https://img.shields.io/badge/QQ-122507257-orange?logo=tencent%20qq)
@@ -32,10 +32,10 @@
  
 ## STATUS
 
-![info](https://github-readme-stats.vercel.app/api?username=m0yuqi&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=fromhex&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <div/>
 
 
-[email]: mailto:m0yuqi@126.com
-[site]: https://www.m0yuqi.cn
+[email]: mailto:fromhex@163.com
+[site]: https://fromhex.cn
