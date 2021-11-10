@@ -8,7 +8,7 @@
 
 <br>
 
-🙈 **![label](https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E5%9C%A8%E8%AF%BB-blue)&ensp; ![label](https://img.shields.io/badge/web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%80%85-red)&ensp; ![label](https://img.shields.io/badge/-%E9%80%80%E5%BD%B9CTFer-gray)&ensp; ![label](https://img.shields.io/badge/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85-orange)&ensp; ![label](https://img.shields.io/badge/%E9%AD%94%E6%9C%AF%E8%8A%B1%E5%88%87%E7%88%B1%E5%A5%BD%E8%80%85-green)**
+🙈 **![label](https://img.shields.io/badge/web%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%80%85-red)&ensp; ![label](https://img.shields.io/badge/-%E9%80%80%E5%BD%B9CTFer-gray)&ensp; ![label](https://img.shields.io/badge/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85-orange)&ensp; ![label](https://img.shields.io/badge/%E9%AD%94%E6%9C%AF%E8%8A%B1%E5%88%87%E7%88%B1%E5%A5%BD%E8%80%85-green)**
 
 ⌨ **试图成为后端开发中、试图为开源社区贡献代码中、试图代码审计中……**
 
